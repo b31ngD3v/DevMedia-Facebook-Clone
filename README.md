@@ -1,3 +1,8 @@
+<img src="https://github.com/b31ngD3v/DevMedia-Facebook-Clone/blob/master/screenshots/Screenshot%20at%202020-09-17%2003-01-48.png" alt=""/>
+<img src="https://github.com/b31ngD3v/DevMedia-Facebook-Clone/blob/master/screenshots/Screenshot%20at%202020-09-17%2003-03-08.png" alt=""/>
+<img src="https://github.com/b31ngD3v/DevMedia-Facebook-Clone/blob/master/screenshots/Screenshot%20at%202020-09-17%2002-55-34.png" alt=""/>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
