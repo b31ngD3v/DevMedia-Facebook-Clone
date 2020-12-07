@@ -2,6 +2,10 @@
 <img src="https://github.com/b31ngD3v/DevMedia-Facebook-Clone/blob/master/screenshots/Screenshot%20at%202020-09-17%2003-03-08.png" alt=""/>
 <img src="https://github.com/b31ngD3v/DevMedia-Facebook-Clone/blob/master/screenshots/Screenshot%20at%202020-09-17%2002-55-34.png" alt=""/>
 
+Buy Me a Coffee
+----
+
+<a href="https://www.buymeacoffee.com/b31ngD3v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=60px width=217px></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
